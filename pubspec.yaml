@@ -10,10 +10,10 @@ dependencies:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
-  flutter_svg: ^0.10.3
+  flutter_svg:
   audio_recorder:
     git:
-      url: git://github.com/chimple/audio_recorder.git
+      url: git://github.com/phongnc/audio_recorder.git
   audioplayers:
   path_provider:
   scoped_model:
